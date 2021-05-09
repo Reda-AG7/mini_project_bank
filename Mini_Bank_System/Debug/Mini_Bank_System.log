@@ -1,0 +1,8 @@
+﻿  accountFunctions.cpp
+C:\dev\My_Github\Mini_Bank_System\Mini_Bank_System\accountFunctions.cpp(50,31): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Account.h
+  adminFunctions.cpp
+C:\dev\My_Github\Mini_Bank_System\Mini_Bank_System\adminFunctions.cpp(42,29): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Mini_Bank_System.vcxproj -> C:\dev\My_Github\Mini_Bank_System\Debug\Mini_Bank_System.exe
